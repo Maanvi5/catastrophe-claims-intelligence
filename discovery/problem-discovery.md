@@ -83,3 +83,12 @@ However, insurers already use environmental and catastrophe information in parts
 **Solution:** Not defined
 
 **MVP:** Not defined
+
+## 8. Next Steps
+
+1. Map the current catastrophe claims workflow from pre-event warning through claims settlement.
+2. Identify the people involved and the decisions they make at each stage.
+3. Understand what data and tools are currently used.
+4. Identify where environmental intelligence is already used.
+5. Identify gaps or friction points in the current workflow.
+6. Determine whether there is a meaningful product opportunity.
