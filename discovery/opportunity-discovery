@@ -1,46 +1,40 @@
 # Opportunity Discovery
 
-## Objective
+## Goal
 
-Identify an unmet problem within the catastrophe insurance workflow where environmental intelligence could create meaningful value.
+Find a real problem in catastrophe claims where environmental data could help.
 
-## What We Learned
+## What we know
 
-Environmental and geospatial intelligence is already used across catastrophe insurance workflows, including:
+Insurers already use weather, catastrophe models, satellite/aerial imagery and other data before and after major events.
 
-- Pre-event impact modelling
-- Portfolio exposure assessment
-- Post-event damage detection
-- Claims triage and prioritisation
-- Remote claims assessment
+So the opportunity is not simply "give insurers weather data."
 
-Existing solutions from insurers, reinsurers and technology providers mean the opportunity is not simply to provide weather or satellite data.
+## Questions we're exploring
 
-## Candidate Opportunity Areas
+### 1. Information gap
 
-### 1. Information latency
-
-Can environmental information available immediately after an event support claims decisions before high-resolution imagery becomes available?
+Is there a period after an event when useful environmental information is available, but detailed damage information isn't?
 
 ### 2. Non-visible losses
 
-Are there weather-related losses that are difficult to assess using aerial or satellite imagery, and where environmental information could provide useful evidence?
+Are there important losses that satellite/aerial imagery can't easily identify?
 
-### 3. Claim-level decision support
+### 3. Claim-level decisions
 
-Can environmental and claims information be combined to help claims teams determine the appropriate handling path for an individual claim?
+Can environmental information help a claims team decide how a particular claim should be handled?
 
-## Current Status
+## What we need to find out
 
-No opportunity has been selected yet.
+For each opportunity:
 
-## Next Step
+- Who has the problem?
+- What do they do today?
+- What makes it difficult?
+- What tools do they already have?
+- What's missing?
+- Would solving it actually matter?
 
-Research each candidate opportunity to understand:
+## Next step
 
-- Who experiences the problem?
-- How is it handled today?
-- How significant is the pain?
-- What solutions already exist?
-- What information is missing?
-- Could a new product materially improve the decision?
+Research these three areas and choose one problem to take forward.
