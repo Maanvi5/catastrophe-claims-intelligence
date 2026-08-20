@@ -28,3 +28,48 @@ For each stage, we will identify:
 - What environmental information is used?
 - What action follows?
 - What constraints or pain points exist?
+
+## 1. Pre-Event Preparation
+
+### What happens?
+
+When a significant weather event is developing, insurers monitor the event and assess its potential impact on their insured portfolio. The objective is to anticipate the scale and location of potential losses and prepare the claims operation before claims arrive.
+
+### Key decisions
+
+- Which parts of the insured portfolio may be affected?
+- How significant could the event be?
+- How many claims might emerge?
+- Where might claims be concentrated?
+- What claims/response capacity may be required?
+- Should additional claims resources be mobilised?
+
+### Who is involved?
+
+- Catastrophe management / CAT response team
+- Claims leadership
+- Operations / resource planning
+- Catastrophe modelling and analytics teams
+- Potentially actuarial / reserving teams
+
+### Information used
+
+- Weather forecasts and observations
+- Catastrophe / hazard models
+- Insured portfolio and customer locations
+- Historical and emerging claim trends
+- Claims resource availability
+
+### Role of environmental intelligence
+
+Environmental information is already used to monitor developing events and estimate potential impact. Its value comes from being combined with insurer-specific exposure and operational data rather than being used as a standalone weather feed.
+
+### Initial observation
+
+The pre-event workflow is already supported by sophisticated catastrophe modelling and response systems. The opportunity is therefore unlikely to be simply providing insurers with weather forecasts.
+
+### Sources
+
+- Swiss Re — Tapping new tools for resiliency post-catastrophe
+- Swiss Re — Rapid Damage Assessment
+- Travelers — National Catastrophe Center
