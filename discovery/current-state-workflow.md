@@ -203,3 +203,27 @@ If environmental intelligence is already being used, what information or decisio
 ### Status
 
 Existing solutions validate the use case, but the remaining product gap has not yet been identified.
+
+## 5. Assessment and Adjustment
+
+### Decision
+
+Once a claim is routed, the insurer needs to establish the extent and cause of the loss, determine the appropriate scope of damage, and assess the claim against the policy.
+
+### Current approach
+
+Assessment may involve desk review, policyholder-provided photos or video, remote inspection, field inspection, or specialist assessment depending on the claim.
+
+Environmental and geospatial intelligence can increasingly support remote assessment and provide additional evidence about event impact and property damage.
+
+### Role of environmental intelligence
+
+Environmental and imagery data can help establish what happened at a property and assess the severity of physical damage. Existing solutions already use these capabilities to reduce unnecessary field inspections and accelerate claims handling.
+
+### Key question
+
+What information does an adjuster or claims handler still need when assessing a weather-related claim that existing environmental and geospatial tools do not adequately provide?
+
+### Status
+
+Assessment is already being supported by environmental, imagery and remote-inspection technologies. Further discovery is required to identify any meaningful unmet need.
