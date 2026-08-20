@@ -179,3 +179,27 @@ This makes the subsequent triage and routing decision operationally important.
 - Who makes the routing decision?
 - What determines the handling path?
 - Is environmental/event information available to the person making that decision?
+
+## 4. Claims Triage and Prioritisation
+
+### Decision
+
+Claims must be routed to the appropriate handling path based on factors such as severity, complexity, financial exposure, coverage and available evidence.
+
+The objective is not simply to rank claims by value, but to allocate the appropriate level of expertise and claims capacity to each claim.
+
+### Current approach
+
+Insurers use claim and policy information, rules/analytics, and increasingly geospatial or imagery-based intelligence to assess damage, prioritise claims and allocate adjusting resources.
+
+### Environmental intelligence
+
+Environmental and geospatial data can already contribute to catastrophe claims triage by providing evidence of event impact and property-level damage.
+
+### Key question
+
+If environmental intelligence is already being used, what information or decision in the current triage workflow remains insufficiently supported?
+
+### Status
+
+Existing solutions validate the use case, but the remaining product gap has not yet been identified.
