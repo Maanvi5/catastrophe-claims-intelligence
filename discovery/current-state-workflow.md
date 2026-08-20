@@ -122,3 +122,60 @@ The potential product opportunity therefore needs to be more specific than simpl
 - Swiss Re — Tapping new tools for resiliency post-catastrophe
 - Swiss Re — Rapid Damage Assessment
 - Munich Re — Automated Damage Detection for Hurricane Response
+
+## 3. Claims Intake and Surge
+
+### What happens?
+
+After the catastrophe, affected policyholders begin reporting losses through the insurer's available claims channels. The insurer records the First Notice of Loss (FNOL) and captures the information needed to establish and begin handling the claim.
+
+During a catastrophe, the volume of incoming claims can increase sharply, creating pressure on claims staff and adjusting capacity.
+
+### Key decisions
+
+At intake, the insurer needs to:
+
+- Capture and validate the reported loss
+- Identify the type of claim and affected asset
+- Determine whether sufficient information is available to proceed
+- Route the claim into the appropriate handling workflow
+- Manage the surge in claims volume against available claims capacity
+
+### Who is involved?
+
+- Claims intake / first-notice-of-loss teams
+- Claims operations
+- Catastrophe claims management
+- Claims handlers / adjusters
+- External adjusting partners, where used
+
+### Information used
+
+- Policy and coverage information
+- Policyholder information
+- Loss date and location
+- Reported cause of loss
+- Affected asset / property
+- Reported damage
+- Estimated claim amount
+- Photos and supporting documentation
+- Existing claims information
+
+### Role of environmental intelligence
+
+At this stage, environmental information could potentially provide additional context about the reported event and its location. However, we have not yet established whether or how insurers use such information during initial claim intake.
+
+### Initial observation
+
+The catastrophe creates a capacity problem: claims volume can increase faster than the insurer's available claims and adjusting resources.
+
+This makes the subsequent triage and routing decision operationally important.
+
+### Open questions
+
+- How much of the initial claim information is captured automatically?
+- What information is available before a claim is reviewed by a claims handler?
+- When does formal triage occur?
+- Who makes the routing decision?
+- What determines the handling path?
+- Is environmental/event information available to the person making that decision?
