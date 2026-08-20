@@ -227,3 +227,33 @@ What information does an adjuster or claims handler still need when assessing a 
 ### Status
 
 Assessment is already being supported by environmental, imagery and remote-inspection technologies. Further discovery is required to identify any meaningful unmet need.
+
+## 6. Settlement
+
+### Decision
+
+Once coverage and damage have been assessed, the insurer determines the amount payable and settles the claim according to the policy terms.
+
+### Who is involved?
+
+- Claims handler / adjuster
+- Claims manager, where approval is required
+- Policyholder / claimant
+- Other specialists where required
+
+### Information used
+
+- Policy coverage and limits
+- Damage assessment
+- Claim documentation
+- Adjuster findings
+- Applicable deductibles
+- Settlement estimate
+
+### Role of environmental intelligence
+
+Environmental intelligence can provide supporting evidence about the event and damage, but settlement ultimately requires assessment against the policy and the documented loss.
+
+### Initial observation
+
+The value of environmental intelligence appears strongest earlier in the workflow—helping insurers anticipate impact, assess damage and allocate claims resources—rather than determining the final settlement amount by itself.
